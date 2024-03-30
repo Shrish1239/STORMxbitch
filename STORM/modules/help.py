@@ -6,12 +6,12 @@ from config import X1, X2, X3, X4, X5, X6, X7, X8, X9, X10, SUDO_USERS, CMD_HNDL
 HELP_STRING = f"""
 ✨ **ʙᴏᴛ ʜᴇʟᴘ** ✨
 
-**[ꜱᴛᴏʀᴍ ꜱᴘᴀᴍ ʙᴏᴛ](https://t.me/Kexx_XD) ʜᴇʟᴘ ᴍᴇɴᴜ** 🥀
+**[𝚆𝙰𝙽𝙳𝙴𝚁𝙸𝙽𝙶 𝚇 𝚂𝙿𝙰𝙼𝙱𝙾𝚃]() ʜᴇʟᴘ ᴍᴇɴᴜ** 🥀
 
-**ʜᴇʟᴘ ᴍᴇɴᴜ ᴘᴏᴡᴇʀᴇᴅ ʙʏ [ꜱᴛᴏʀᴍ](https://github.com/VARC9210/STORM)** ✨
+**ʜᴇʟᴘ ᴍᴇɴᴜ ᴘᴏᴡᴇʀᴇᴅ ʙʏ [𝚆𝙰𝙽𝙳𝙴𝚁𝙸𝙽𝙶 𝚇 𝚂𝙿𝙰𝙼𝙱𝙾𝚃](https://t.me/Homosapienhu)** ✨
 
-**ᴄʜᴀɴɴᴇʟ: [ꜱᴛᴏʀᴍ ᴛᴇᴄʜ 🇮🇳](https://t.me/STORM_TECHH)**
-**ꜱᴜᴘᴘᴏʀᴛ: [ꜱᴛᴏʀᴍ ᴄʜᴀᴛᴢ 🇮🇳](https://t.me/STORM_CHATZ)**
+**ᴄʜᴀɴɴᴇʟ: [𝚆𝙰𝙽𝙳𝙴𝚁𝙸𝙽𝙶 ᴄʜᴀɴɴᴇʟ](https://t.me/sudeokeliyeaajaobclog)**
+**ꜱᴜᴘᴘᴏʀᴛ: [𝚆𝙰𝙽𝙳𝙴𝚁𝙸𝙽𝙶 ꜱᴜᴘᴘᴏʀᴛ](https://t.me/sudeokeliyeaajaobclog)**
 """
 HELP_BUTTON = [
     [
