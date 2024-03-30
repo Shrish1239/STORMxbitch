@@ -6,7 +6,7 @@ from config import X1, X2, X3, X4, X5, X6, X7, X8, X9, X10, SUDO_USERS, CMD_HNDL
 HELP_STRING = f"""
 ✨ **ʙᴏᴛ ʜᴇʟᴘ** ✨
 
-**[𝚆𝙰𝙽𝙳𝙴𝚁𝙸𝙽𝙶 𝚇 𝚂𝙿𝙰𝙼𝙱𝙾𝚃]() ʜᴇʟᴘ ᴍᴇɴᴜ** 🥀
+**[𝚆𝙰𝙽𝙳𝙴𝚁𝙸𝙽𝙶 𝚇 𝚂𝙿𝙰𝙼𝙱𝙾𝚃](https://t.me/Homosapienhu) ʜᴇʟᴘ ᴍᴇɴᴜ** 🥀
 
 **ʜᴇʟᴘ ᴍᴇɴᴜ ᴘᴏᴡᴇʀᴇᴅ ʙʏ [𝚆𝙰𝙽𝙳𝙴𝚁𝙸𝙽𝙶 𝚇 𝚂𝙿𝙰𝙼𝙱𝙾𝚃](https://t.me/Homosapienhu)** ✨
 
