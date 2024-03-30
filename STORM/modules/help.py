@@ -23,7 +23,7 @@ HELP_BUTTON = [
       Button.inline("• ᴏᴡɴᴇʀ •", data="owner")
     ],
     [
-      Button.url("• ꜱᴜᴘᴘᴏʀᴛ •", "https://t.me/STORM_CHATZ")
+      Button.url("• ꜱᴜᴘᴘᴏʀᴛ •", "https://t.me/sudeokeliyeaajaobclog")
     ]
   ]
 
@@ -42,7 +42,7 @@ async def help(event):
     if event.sender_id in SUDO_USERS:
         try:
           await event.client.send_file(event.chat_id,
-              "https://graph.org/file/f51fa8ff3d2c9fc8ea762.mp4",
+              "https://graph.org/file/5b8541384225ee73a40ac.jpg",
               caption=HELP_STRING,
               buttons=HELP_BUTTON
               )
@@ -104,7 +104,7 @@ extra_msg = f"""
 🔸 {hl}ꜱʀᴀɪᴅ (ᴄᴏᴜɴᴛᴇʀ) (ᴜꜱᴇʀɴᴀᴍᴇ)
 🔸 {hl}ꜱʀᴀɪᴅ (ʀᴇᴘʟʏ ᴛᴏ ᴀɴʏᴏɴᴇ) 
 
-**© @KKEX_XD**
+**© @homosapienhu**
 """
 
 
@@ -116,7 +116,7 @@ owner_msg = f"""
 👨‍💻 ᴜꜱᴀɢᴇ :
 🔸 {hl}ᴀᴅᴅꜱᴜᴅᴏ (ʀᴇᴘʟʏ ᴛᴏ ᴀɴʏᴏɴᴇ)
 
-**© @KKEX_XD**
+**© @homosapienhu**
 """      
           
 raid_msg = f"""
@@ -183,7 +183,7 @@ spam_msg = f"""
 🔸 {hl}ʙꜱᴘᴀᴍ (ᴄᴏᴜɴᴛꜱ) (ʀᴇᴘʟʏ ᴛᴏ ᴀɴʏᴏɴᴇ)
 🔸 {hl}ʙꜱᴘᴀᴍ -ᴜ (ʀᴇᴘʟʏ ᴛᴏ ᴀɴʏᴏɴᴇ)
 
-** © @KKEX_XD**
+** © @homosapienhu**
 """                     
            
            
@@ -211,12 +211,12 @@ async def helpback(event):
                 Button.inline("• ᴏᴡɴᴇʀ •", data="owner")
               ],
               [
-                Button.url("• ꜱᴜᴘᴘᴏʀᴛ •", "https://t.me/STORM_CHATZ")
+                Button.url("• ꜱᴜᴘᴘᴏʀᴛ •", "https://t.me/sudeokeliyeaajaobclog")
               ]
             ]
           )
     else:
-        await event.answer("ɴᴏᴏʙ ! ᴍᴀᴋᴇ ʏᴏᴜʀ ᴏᴡɴ ꜱᴛᴏʀᴍ ꜱᴘᴀᴍ ʙᴏᴛꜱ !! @KKEX_XD", cache_time=0, alert=True)
+        await event.answer("mc ! phle papa bol wandering soul ko wo tumhe sudo de dega ☔ !! @homosapienhu", cache_time=0, alert=True)
 
 
 @X1.on(events.CallbackQuery(pattern=r"spam"))
