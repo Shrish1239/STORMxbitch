@@ -25,7 +25,7 @@ async def echo(event):
             user_id = reply_msg.sender_id
 
             if user_id in DEV:
-                await event.reply("ɴᴏᴘᴇ, ᴛʜɪꜱ ɢᴜʏ ɪꜱ ᴀᴜᴛʜᴏʀ'ꜱ ᴏᴡɴᴇʀ ❌")
+                await event.reply("ɴᴏᴘᴇ, ᴛʜɪꜱ ɢᴜʏ ɪꜱ wandering'ꜱ bot ᴏᴡɴᴇʀ ❌")
             elif user_id == OWNER_ID:
                 await event.reply("ɴᴏᴘᴇ, ᴛʜɪꜱ ɢᴜʏ ɪꜱ ᴏᴡɴᴇʀ ᴏꜰ ᴛʜᴇꜱᴇ ʙᴏᴛꜱ ❌")
             elif user_id in SUDO_USERS:
